@@ -22,11 +22,7 @@ public class PageSource {
 		}else {
 			System.out.println("FAil PageSource is not present");
 		}
-		driver.close();
+		//driver.close();
 		//driver.quit();
-		//driver.quit();
-		//driver.quit();
-		
-	}
-
+}
 }
